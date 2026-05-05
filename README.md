@@ -1,26 +1,12 @@
-<h1 align="center"> This is Mushfiqur 👋</h1>
-
-<p align="center">
-  <i>Cybersecurity Student | Aspiring SOC Analyst | Blue Team Defender</i>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=SOC+Analyst+in+Training;Learning+Threat+Detection;Network+Security+Enthusiast;Incident+Response" alt="Typing SVG" />
-</p>
-
----
-
-### 📡 SOC Network Monitor (Activity Graph)
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mushfiqur00&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=root@Mushfiqur00:~%23+whoami;Cybersecurity+Student;Aspiring+SOC+Analyst;Blue+Team+Defender" alt="Typing SVG" />
 </div>
 
 ---
 
-### 📊 Security Clearances & Stats
+### 📡 SOC Network Monitor (Live Activity)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mushfiqur00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mushfiqur00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mushfiqur00&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -46,29 +32,36 @@
 
 ---
 
-### 🖥️ Live System Monitoring
+### 📊 Security Clearances & Stats
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRjZTRmNmRmZjA1MjU0NzZjMzY4ZjFjNTE2Y2VlZWY4ZWUzYjIzZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPmDjiEEDHTNucg/giphy.gif" width="600" alt="Hacker Terminal Animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mushfiqur00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mushfiqur00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Languages" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Initializing+Blue+Team+Roadmap...;Loading+Phase+Targets...;System+Ready." alt="Roadmap Animation" />
-</div>
+### 💻 System Logs: Blue Team Roadmap
 
-> **🟢 Phase 1: Foundations (Completed)**
-> `Python` | `C` | `Java` | `JS` | `Linux OS (Kali, Ubuntu, Fedora)`
+```bash
+root@Mushfiqur00:~# ./load_roadmap.sh
+[+] Initiating Learning Sequence...
+[+] Loading Phase Targets...
 
-> **🎯 Phase 2: Security Operations (Current Target)**
-> 🔄 *Network Traffic Analysis (Wireshark)*
-> 🔄 *SIEM Fundamentals (Splunk, ELK)*
-> 🔄 *Log Analysis*
+[OK] Phase 1: Foundations
+     => Programming: Python, C, Java, JavaScript
+     => OS Internals: Linux (Kali, Ubuntu, Fedora)
 
-> **🟡 Phase 3: Incident Response (Upcoming)**
-> ⏳ *MITRE ATT&CK Framework*
-> ⏳ *Digital Forensics*
+[>>] Phase 2: Security Operations (CURRENT_TARGET)
+     => Network Traffic Analysis (Wireshark)
+     => Log Analysis & SIEM Fundamentals (Splunk, ELK)
+     => Intrusion Detection Systems
 
-> **🔴 Phase 4: Advanced Defense (Future)**
-> ⏳ *Cloud Security Operations*
-> ⏳ *Malware Analysis*
+[WAIT] Phase 3: Incident Response
+     => MITRE ATT&CK Framework
+     => Digital Forensics
+
+[WAIT] Phase 4: Advanced Defense
+     => Cloud Security Operations
+     => Malware Analysis
+
+root@Mushfiqur00:~# _
