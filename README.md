@@ -33,9 +33,10 @@
 ---
 
 ### 📊 Security Clearances & Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mushfiqur00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mushfiqur00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mushfiqur00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mushfiqur00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
