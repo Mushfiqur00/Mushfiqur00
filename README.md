@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mushfiqur 👋</h1>
+<h1 align="center">Assalamualaikum, I'm Mushfiqur 👋</h1>
 
 <p align="center">
   <i>Cybersecurity Student | Aspiring SOC Analyst | Blue Team Defender</i>
@@ -50,3 +50,33 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=2000&color=00FF00&background=0D1117&center=false&vCenter=false&width=600&height=120&lines=root@Mushfiqur00:~%23+nmap+-sV+-T4+192.168.1.1;Starting+Nmap+7.93+at+2026-05-05...;Host+is+up+(0.0020s+latency).;PORT+++++STATE++SERVICE;22/tcp+++open+++ssh;80/tcp+++open+++http;root@Mushfiqur00:~%23+_" alt="Nmap Scan Animation" />
 </div>
+
+---
+
+### 🗺️ Blue Team Learning Roadmap
+
+I am continuously learning and expanding my skills. Here is my current trajectory:
+
+**Phase 1: Foundations (Completed) ✅**
+- [x] Programming & Scripting (Python, C, Java, JS)
+- [x] OS Internals (Linux: Kali, Ubuntu, Fedora)
+- [x] Basic Command Line & Administration
+
+**Phase 2: Security Operations (Current Target 🎯)**
+- [ ] Network Traffic Analysis (Wireshark, tcpdump)
+- [ ] Log Analysis & Windows Event Logs
+- [ ] SIEM Fundamentals (Splunk, ELK Stack)
+- [ ] Intrusion Detection Systems (Snort, Suricata)
+
+**Phase 3: Threat Detection & Incident Response**
+- [ ] Mastering the MITRE ATT&CK Framework
+- [ ] Endpoint Detection & Response (EDR) basics
+- [ ] Digital Forensics & Memory Analysis
+- [ ] Writing Incident Reports
+
+**Phase 4: Advanced Defense**
+- [ ] Cloud Security Operations (AWS / Azure)
+- [ ] Security Automation (SOAR)
+- [ ] Basic Malware Analysis
+
+---
