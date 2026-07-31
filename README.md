@@ -68,3 +68,139 @@ I am currently developing my research and technical skills with the long-term go
                               H.265 / HEVC
                                    │
                              Steganalysis
+
+
+</div>
+🎯 Current Research Focus
+
+Secure communication through cryptographic protection and information hiding in digital multimedia.
+
+My undergraduate research direction is centered around H.265/HEVC video steganography, investigating how information can be securely concealed within compressed video while considering security, imperceptibility, capacity, robustness, and computational cost.
+
+⚠️ Research results and technical claims will be added here as the work progresses.
+
+📚 Undergraduate Thesis
+🎥 H.265/HEVC Video Steganography
+
+Research Area: Multimedia Security · Steganography · Information Security
+
+My undergraduate thesis investigates information hiding within H.265/HEVC compressed video.
+
+Research interests within the thesis
+🔹 Secure information hiding
+🔹 H.265/HEVC video compression
+🔹 Embedding & extraction techniques
+🔹 Imperceptibility
+🔹 Payload / embedding capacity
+🔹 Robustness
+🔹 Computational efficiency
+🔹 Security evaluation
+
+📌 Status: Research in Progress
+
+Detailed methodology, implementation and experimental results will be published here after validation.
+
+🧪 Selected Research & Security Projects
+
+Projects will be added as they are completed and documented.
+
+🔐 Image Steganography & Steganalysis
+
+Planned Research Project
+
+Exploring information hiding techniques and investigating whether steganographic content can be distinguished from normal media.
+
+Python OpenCV NumPy Image Processing
+
+🔑 Cryptographic Multimedia Protection
+
+Planned Security Project
+
+Exploring the combination of established cryptographic primitives with information-hiding techniques to provide an additional layer of protection for sensitive information.
+
+Python Cryptography AES Hashing Steganography
+
+🤖 Machine Learning for Steganalysis
+
+Planned Research Project
+
+Investigating whether machine-learning models can identify hidden information in digital media and evaluating their performance using appropriate security metrics.
+
+Python Scikit-learn Machine Learning Security Analysis
+
+🌐 Network Security Analysis
+
+Cybersecurity Project
+
+Practical investigation of network traffic, protocols and suspicious communication patterns using controlled laboratory environments and publicly available datasets.
+
+Python Wireshark Networking Linux
+
+🛠️ Technical Skills
+🐍 Programming & Research
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+🐧 Operating Systems & Security Environment
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+🔐 Cybersecurity
+<img src="https://img.shields.io/badge/Networking-1F6FEB?style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" /> <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
+🔬 Research Areas
+<img src="https://img.shields.io/badge/Steganography-8A2BE2?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cryptography-6A5ACD?style=for-the-badge" /> <img src="https://img.shields.io/badge/Multimedia_Security-2E8B57?style=for-the-badge" /> <img src="https://img.shields.io/badge/Information_Security-1F6FEB?style=for-the-badge" />
+📊 GitHub Activity
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mushfiqur00&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mushfiqur00&layout=compact&theme=github_dark&hide_border=true" /> </div>
+🧭 Current Learning Roadmap
+Mushfiqur@Research:~$ ./research-roadmap.sh
+
+[✓] Cybersecurity Foundations
+[✓] Networking Fundamentals
+[✓] Linux Fundamentals
+
+[>>] Python for Security & Research
+     ├── Data Processing
+     ├── Security Automation
+     └── Experimental Analysis
+
+[>>] Information Security
+     ├── Applied Cryptography
+     ├── Secure Communication
+     └── Security Evaluation
+
+[>>] Multimedia Security
+     ├── Digital Image Processing
+     ├── Video Compression
+     ├── H.265 / HEVC
+     └── Steganography
+
+[WAIT] Research Development
+     ├── Literature Review
+     ├── Experimental Design
+     ├── Statistical Evaluation
+     └── Research Publication
+
+[WAIT] Advanced Research
+     ├── Steganalysis
+     ├── Security of Information Hiding
+     └── ML-assisted Security Analysis
+
+Mushfiqur@Research:~$ _
+🎓 Education
+Daffodil International University
+
+BSc in Cyber Security
+
+📍 Bangladesh
+🎓 Expected Graduation: December 2026
+
+📜 Certifications
+
+Certifications will be listed here as they are completed.
+
+📄 CV
+<div align="center"> <a href="YOUR_CV_LINK"> <img src="https://img.shields.io/badge/Download-CV-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /> </a> </div>
+🤝 Connect With Me
+<div align="center"> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> </div>
+<div align="center">
+🔐 Research. Secure. Explain.
+
+<i>Building knowledge today for secure systems tomorrow.</i>
+
+</div> ```
